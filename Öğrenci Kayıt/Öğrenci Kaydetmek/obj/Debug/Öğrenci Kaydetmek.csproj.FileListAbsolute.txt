@@ -1,0 +1,43 @@
+C:\Users\Mesut EROL\Desktop\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Mesut EROL\Desktop\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Mesut EROL\Desktop\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csprojResolveAssemblyReference.cache
+C:\Users\Mesut EROL\Desktop\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Form1.resources
+C:\Users\Mesut EROL\Desktop\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Properties.Resources.resources
+C:\Users\Mesut EROL\Desktop\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csproj.GenerateResource.Cache
+C:\Users\Mesut EROL\Desktop\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Mesut EROL\Desktop\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Mesut EROL\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Mesut EROL\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Mesut EROL\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Mesut EROL\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Mesut EROL\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csprojResolveAssemblyReference.cache
+C:\Users\Mesut EROL\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Form1.resources
+C:\Users\Mesut EROL\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Properties.Resources.resources
+C:\Users\Mesut EROL\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csproj.GenerateResource.Cache
+C:\Users\Mesut\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Mesut\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Mesut\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Mesut\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Mesut\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Form1.resources
+C:\Users\Mesut\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Properties.Resources.resources
+C:\Users\Mesut\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csproj.GenerateResource.Cache
+C:\Users\Mesut\Desktop\Mert C# - SQL\ALIŞTIRMALAR\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csprojResolveAssemblyReference.cache
+C:\Users\Mesut\Desktop\Mert C# - SQL\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Mesut\Desktop\Mert C# - SQL\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Mesut\Desktop\Mert C# - SQL\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Mesut\Desktop\Mert C# - SQL\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Mesut\Desktop\Mert C# - SQL\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Form1.resources
+C:\Users\Mesut\Desktop\Mert C# - SQL\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Properties.Resources.resources
+C:\Users\Mesut\Desktop\Mert C# - SQL\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csproj.GenerateResource.cache
+C:\Users\Mesut\Desktop\Mert C# - SQL\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csprojResolveAssemblyReference.cache
+C:\Users\Mesut\Desktop\Mert C# - SQL\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.rastgeleKayitOlustur.resources
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.exe
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\bin\Debug\Öğrenci Kaydetmek.pdb
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csprojResolveAssemblyReference.cache
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Form1.resources
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Properties.Resources.resources
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.rastgeleKayitOlustur.resources
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci Kaydetmek.csproj.GenerateResource.Cache
+C:\Users\Orçun\Desktop\Orçun C#\PROJE\Öğrenci Kaydetmek\Öğrenci Kaydetmek\obj\Debug\Öğrenci_Kaydetmek.Form2.resources
